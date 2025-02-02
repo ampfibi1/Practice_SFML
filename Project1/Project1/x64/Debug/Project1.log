@@ -1,0 +1,13 @@
+﻿  Map.cpp
+P:\Practice SFML\Project1\Project1\Map.cpp(44,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+P:\Practice SFML\Project1\Project1\Map.cpp(52,53): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+P:\Practice SFML\Project1\Project1\Map.cpp(52,47): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Project1.vcxproj -> P:\Practice SFML\Project1\x64\Debug\Project1.exe
